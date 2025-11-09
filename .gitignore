@@ -218,4 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Ignore dataset and cache folders
-N-MNIST/-mnist_data/
+N-MNIST/n-mnist_data/
